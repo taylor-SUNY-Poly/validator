@@ -70,7 +70,7 @@ And this text.
         if error_output != "":
             print(error_output)
         else:
-            print("Validation Complete, no trivial errors in exam data")
+            print("Validation Complete\nNo trivial errors in exam data.")
 
 if __name__ == "__main__":
     test_exam = {}
