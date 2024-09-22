@@ -25,7 +25,7 @@ def validate_exam_1(exam):
             "Q21",
             "Q22",
             ]
-    valid_exam_ids = ["A191","A242","A373","A404"]
+    valid_exam_ids = ["A191","A242","A373","A404","P101"]
     error_output = ""
     code_trace_default ='''
 Replace this text.
